@@ -69,7 +69,7 @@ app/
 
 ### 1. Clone and set up a virtual environment
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Jayesh-P2603/fintech-wallet.git
 cd <project-folder>
 python -m venv venv
 source venv/bin/activate   # on Windows: venv\Scripts\activate
